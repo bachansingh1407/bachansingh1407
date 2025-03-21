@@ -1,4 +1,4 @@
-### Hi there, I'm Bachan Singh 
+### Hi there 👋, I'm Bachan Singh 
 
 Web Developer | API Enthusiast |  **React**, **Node.js**, **Express**, **MySQL**
 
