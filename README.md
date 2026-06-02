@@ -2,7 +2,7 @@
 
 # Bachan Singh
 
-**Software Developer (Frontend-focused Full Stack Learner) · India 🇮🇳**
+**Software Developer · India 🇮🇳**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bachansingh1407)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bachansingh1407@gmail.com)
