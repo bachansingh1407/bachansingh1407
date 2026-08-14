@@ -22,11 +22,7 @@
 ## 𝚂𝚔𝚒𝚕𝚕𝚜 & 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,python,spring,php,laravel" />
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,docker,cloudflare" />
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,ts,js,react,nextjs,redux,tailwind,materialui,postgres,mongodb,mysql,ai,npm,prisma,redis,cloudflare,git,github,vscode,postman" />
 </p>
 
 ## Connect
