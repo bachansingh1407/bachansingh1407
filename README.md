@@ -1,105 +1,41 @@
-
 <div align="center">
 
-# Bachan Singh
+# 𝐁𝐚𝐜𝐡𝐚𝐧 𝐒𝐢𝐧𝐠𝐡
 
-**Software Developer · India 🇮🇳**
+### 𝘍𝘶𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 • 𝘉𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘚𝘤𝘢𝘭𝘢𝘣𝘭𝘦 𝘞𝘦𝘣 𝘈𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bachansingh1407)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bachansingh1407@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/bachansingh1407?label=Follow&style=flat-square&color=555)](https://github.com/bachansingh1407)
-[![Views](https://komarev.com/ghpvc/?username=bachansingh1407&style=flat-square&color=555)](https://github.com/bachansingh1407)
+*𝘛𝘳𝘢𝘯𝘴𝘧𝘰𝘳𝘮𝘪𝘯𝘨 𝘪𝘥𝘦𝘢𝘴 𝘪𝘯𝘵𝘰 𝘳𝘦𝘭𝘪𝘢𝘣𝘭𝘦 𝘱𝘳𝘰𝘥𝘶𝘤𝘵𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 𝘤𝘭𝘦𝘢𝘯 𝘢𝘳𝘤𝘩𝘪𝘵𝘦𝘤𝘵𝘶𝘳𝘦, 𝘮𝘰𝘥𝘦𝘳𝘯 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴, 𝘢𝘯𝘥 𝘤𝘰𝘯𝘵𝘪𝘯𝘶𝘰𝘶𝘴 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨.*
 
 </div>
 
 ---
 
-## About
+## About Me
 
-```js
-const bachan = {
-  role: "Software Developer (Frontend-focused Full Stack Learner)",
+𝘐 𝘢𝘮 𝘢 𝘍𝘶𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘧𝘰𝘤𝘶𝘴𝘦𝘥 𝘰𝘯 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘮𝘰𝘥𝘦𝘳𝘯 𝘸𝘦𝘣 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘸𝘪𝘵𝘩 𝘙𝘦𝘢𝘤𝘵, 𝘕𝘦𝘹𝘵.𝘫𝘴, 𝘕𝘰𝘥𝘦.𝘫𝘴, 𝘢𝘯𝘥 𝘗𝘰𝘴𝘵𝘨𝘳𝘦𝘚𝘘𝘓. 𝘐 𝘦𝘯𝘫𝘰𝘺 𝘤𝘳𝘦𝘢𝘵𝘪𝘯𝘨 𝘴𝘺𝘴𝘵𝘦𝘮𝘴 𝘵𝘩𝘢𝘵 𝘢𝘳𝘦 𝘴𝘪𝘮𝘱𝘭𝘦 𝘵𝘰 𝘶𝘴𝘦, 𝘴𝘤𝘢𝘭𝘢𝘣𝘭𝘦 𝘵𝘰 𝘨𝘳𝘰𝘸, 𝘢𝘯𝘥 𝘮𝘢𝘪𝘯𝘵𝘢𝘪𝘯𝘢𝘣𝘭𝘦 𝘰𝘷𝘦𝘳 𝘵𝘪𝘮𝘦. 𝘔𝘺 𝘸𝘰𝘳𝘬 𝘤𝘰𝘮𝘣𝘪𝘯𝘦𝘴 𝘧𝘳𝘰𝘯𝘵𝘦𝘯𝘥 𝘶𝘴𝘦𝘳 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 𝘸𝘪𝘵𝘩 𝘳𝘰𝘣𝘶𝘴𝘵 𝘣𝘢𝘤𝘬𝘦𝘯𝘥 𝘢𝘳𝘤𝘩𝘪𝘵𝘦𝘤𝘵𝘶𝘳𝘦 𝘵𝘰 𝘥𝘦𝘭𝘪𝘷𝘦𝘳 𝘤𝘰𝘮𝘱𝘭𝘦𝘵𝘦 𝘦𝘯𝘥-𝘵𝘰-𝘦𝘯𝘥 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯𝘴.
 
-  focus: [
-    "Frontend Development (React, Next.js, UI architecture, performance)",
-    "Backend Development (Node.js, Express, REST APIs)",
-    "Databases (PostgreSQL, MongoDB, schema design basics)",
-    "System Design fundamentals through real-world projects"
-  ],
-
-  philosophy: "Build first, understand deeply later. Learn systems by implementing them.",
-
-  currentlyLearning: {
-    frontend: "React patterns, state management, Next.js routing, performance optimization",
-    backend: "REST APIs, authentication (JWT, sessions), middleware design",
-    databases: "Indexing, relational vs NoSQL tradeoffs, query optimization basics",
-    systemDesign: "Monolith vs microservices, caching, load balancing, basic scalability patterns"
-  }
-};
-````
+𝘉𝘦𝘺𝘰𝘯𝘥 𝘸𝘳𝘪𝘵𝘪𝘯𝘨 𝘤𝘰𝘥𝘦, 𝘐 𝘢𝘮 𝘥𝘦𝘦𝘱𝘭𝘺 𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵𝘦𝘥 𝘪𝘯 𝘴𝘺𝘴𝘵𝘦𝘮 𝘥𝘦𝘴𝘪𝘨𝘯, 𝘤𝘭𝘰𝘶𝘥 𝘪𝘯𝘧𝘳𝘢𝘴𝘵𝘳𝘶𝘤𝘵𝘶𝘳𝘦, 𝘢𝘯𝘥 𝘱𝘳𝘰𝘥𝘶𝘤𝘵 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵. 𝘐 𝘣𝘦𝘭𝘪𝘦𝘷𝘦 𝘵𝘩𝘦 𝘣𝘦𝘴𝘵 𝘸𝘢𝘺 𝘵𝘰 𝘮𝘢𝘴𝘵𝘦𝘳 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺 𝘪𝘴 𝘣𝘺 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘳𝘦𝘢𝘭 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴, 𝘴𝘰𝘭𝘷𝘪𝘯𝘨 𝘱𝘳𝘢𝘤𝘵𝘪𝘤𝘢𝘭 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴, 𝘢𝘯𝘥 𝘤𝘰𝘯𝘵𝘪𝘯𝘶𝘰𝘶𝘴𝘭𝘺 𝘪𝘮𝘱𝘳𝘰𝘷𝘪𝘯𝘨 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 𝘦𝘹𝘱𝘦𝘳𝘪𝘮𝘦𝘯𝘵𝘢𝘵𝘪𝘰𝘯 𝘢𝘯𝘥 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨.
 
 ---
 
-## Tech Stack
 
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+## Skills & Technologies
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404d59?style=flat-square\&logo=express\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square\&logo=jsonwebtokens)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,python,spring,php,laravel" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,docker,cloudflare" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
+</p>
 
-### Databases
+## Connect
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square\&logo=mongodb\&logoColor=white)
+* 𝘎𝘪𝘵𝘏𝘶𝘣: [𝘩𝘵𝘵𝘱𝘴://𝘨𝘪𝘵𝘩𝘶𝘣.𝘤𝘰𝘮/𝘣𝘢𝘤𝘩𝘢𝘯𝘴𝘪𝘯𝘨𝘩1407](𝘩𝘵𝘵𝘱𝘴://𝘨𝘪𝘵𝘩𝘶𝘣.𝘤𝘰𝘮/𝘣𝘢𝘤𝘩𝘢𝘯𝘴𝘪𝘯𝘨𝘩1407)
+* 𝘓𝘪𝘯𝘬𝘦𝘥𝘐𝘯: [𝘩𝘵𝘵𝘱𝘴://𝘭𝘪𝘯𝘬𝘦𝘥𝘪𝘯.𝘤𝘰𝘮](𝘩𝘵𝘵𝘱𝘴://𝘸𝘸𝘸.𝘭𝘪𝘯𝘬𝘦𝘥𝘪𝘯.𝘤𝘰𝘮/𝘪𝘯/𝘣𝘢𝘤𝘩𝘢𝘯-𝘴𝘪𝘯𝘨𝘩)
+* 𝘌𝘮𝘢𝘪𝘭: [𝘣𝘢𝘤𝘩𝘢𝘯𝘴𝘪𝘯𝘨𝘩1407@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮](𝘮𝘢𝘪𝘭𝘵𝘰:𝘣𝘢𝘤𝘩𝘢𝘯𝘴𝘪𝘯𝘨𝘩1407@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮)
 
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square\&logo=visual-studio-code\&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/AI_Tools-74aa9c?style=flat-square)
-
----
-
-## What I Focus On
-
-* Building real-world frontend applications using React and Next.js
-* Designing clean backend APIs using Node.js and Express
-* Understanding how frontend and backend interact in production apps
-* Learning how scalable systems are structured at a conceptual level
-* Improving code structure, performance, and maintainability
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bachansingh1407&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bachansingh1407&theme=default&hide_border=true&layout=compact" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bachansingh1407&theme=default&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-If you care about building systems that are simple, scalable, and understandable, we’ll likely think the same way.
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/bachansingh1407)
- 
-[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:bachansingh1407@gmail.com)
 
 </div>
